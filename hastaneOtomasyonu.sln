@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hastaneOtomasyonu", "hastaneOtomasyonu\hastaneOtomasyonu.csproj", "{71F3AF5E-B06F-4889-B250-77B4564967AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F3AF5E-B06F-4889-B250-77B4564967AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F3AF5E-B06F-4889-B250-77B4564967AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F3AF5E-B06F-4889-B250-77B4564967AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F3AF5E-B06F-4889-B250-77B4564967AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AD6C50-2556-4E6A-B442-DDBA2800A3B4}
+	EndGlobalSection
+EndGlobal
